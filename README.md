@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Rizky0606/Rizky0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo semua! 
 
-Here are some ideas to get you started:
+Perkenalkan nama saya **Rizky Fauzi Ardiansyah**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya seorang **Mahasiswa** di **Universitas Indraprasta PGRI**
+
+Pengalaman saya mengikuti kelas di Dicoding  
+Serifikat :   
+1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/QLZ9106ODP5D).  
+2. [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/07Z656EWRXQR).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizky-fauzi-847828220/)ku ya.
+
